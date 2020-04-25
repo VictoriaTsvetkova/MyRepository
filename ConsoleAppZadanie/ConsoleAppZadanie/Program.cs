@@ -45,6 +45,10 @@ namespace ConsoleAppZadanie
 					SubjectSemester.Add(TempSubject);
 				}
 			}
+			static public void Sort()
+			{
+				SubjectSemester.OrderBy(r => r.Semester).ThenBy(r => r.Surname).ToArray();
+			}
 			static void Main(string[] args)
 			{
 			}
