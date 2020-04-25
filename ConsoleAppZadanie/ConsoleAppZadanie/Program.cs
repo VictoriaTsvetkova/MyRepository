@@ -59,6 +59,9 @@ namespace ConsoleAppZadanie
 			}
 			static void Main(string[] args)
 			{
+				Plan.SubjectItems();
+				Plan.Sort();
+				Plan.SaveInFile();
 			}
 		}
 	}
