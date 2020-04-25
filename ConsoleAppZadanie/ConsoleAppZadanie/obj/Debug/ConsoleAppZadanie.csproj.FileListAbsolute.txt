@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\Экзамен\MyRepository\ConsoleAppZadanie\ConsoleAppZadanie\bin\Debug\ConsoleAppZadanie.exe.config
+C:\Users\USER\Desktop\Экзамен\MyRepository\ConsoleAppZadanie\ConsoleAppZadanie\bin\Debug\ConsoleAppZadanie.exe
+C:\Users\USER\Desktop\Экзамен\MyRepository\ConsoleAppZadanie\ConsoleAppZadanie\bin\Debug\ConsoleAppZadanie.pdb
+C:\Users\USER\Desktop\Экзамен\MyRepository\ConsoleAppZadanie\ConsoleAppZadanie\obj\Debug\ConsoleAppZadanie.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Экзамен\MyRepository\ConsoleAppZadanie\ConsoleAppZadanie\obj\Debug\ConsoleAppZadanie.exe
+C:\Users\USER\Desktop\Экзамен\MyRepository\ConsoleAppZadanie\ConsoleAppZadanie\obj\Debug\ConsoleAppZadanie.pdb
