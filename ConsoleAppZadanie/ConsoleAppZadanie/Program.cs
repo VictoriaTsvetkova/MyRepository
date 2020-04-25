@@ -54,7 +54,7 @@ namespace ConsoleAppZadanie
 				using (StreamWriter sw = new StreamWriter("FileSubjects.txt"))
 				{
 					foreach (Subject S in SubjectSemester)
-						sw.WriteLine(S.Surname + ", " + S.Name + ", " + S.Semester.ToString());
+						sw.WriteLine(S.Name + ", " + S.Semester.ToString());
 				}
 			}
 			static void Main(string[] args)
