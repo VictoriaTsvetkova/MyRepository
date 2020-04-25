@@ -49,6 +49,14 @@ namespace ConsoleAppZadanie
 			{
 				SubjectSemester.OrderBy(r => r.Semester).ThenBy(r => r.Surname).ToArray();
 			}
+			static public void SaveInFile()
+			{
+				using (StreamWriter sw = new StreamWriter("FileSubjects.txt"))
+				{
+					foreach (Subject S in SubjectSemester)
+						sw.WriteLine(S.Surname + ", " + S.Name + ", " + S.Semester.ToString());
+				}
+			}
 			static void Main(string[] args)
 			{
 			}
